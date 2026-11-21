@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bypass Charging QS</string>
+    <string name="tile_name">Bypass Charging</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="unsupported">Unsupported / no root</string>
+</resources>
